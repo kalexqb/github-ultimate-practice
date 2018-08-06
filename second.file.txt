@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 create cpnflict in Master - Not ok
+=======
+second change - Not ok
+>>>>>>> newBranch
