@@ -1,1 +1,2 @@
 My file contents
+new line
