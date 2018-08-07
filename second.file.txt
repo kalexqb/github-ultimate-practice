@@ -1,6 +1,3 @@
-
-<<<<<<< HEAD
-create cpnflict in Master - Not ok
-=======
-second change - Not ok
->>>>>>> newBranch
+line 1
+line 2
+line 3
