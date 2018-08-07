@@ -1,2 +1,5 @@
 My file contents
 new line
+line to be stashed
+
+one more line
